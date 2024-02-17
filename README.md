@@ -18,3 +18,10 @@ N/A
 
 ## License
 MIT license
+
+## Mock-Up
+The following image shows the wed site appearance and functionality:
+
+![Getting Started](./Develop/assets/images/mockup.png)
+
+Notice: This layout is designed for desktop viewing, some of the elements don't look like the mock-up at a resolution smaller than 768px.
