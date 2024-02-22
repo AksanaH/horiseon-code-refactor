@@ -12,6 +12,9 @@ N/A
 2. The menu in a top lef corner contains links. Click on them to find more details for specific topics.
 3. Scroll through the page to read the articles.
 
+The URL of the deployed application: https://aksanah.github.io/horiseon-code-refactor/ 
+
+
 ## Technologies Used
 - HTML
 - CSS
