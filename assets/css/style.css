@@ -51,15 +51,15 @@ p {
     font-size: 16px;
 }
 
-/* added styles for img */
-
-.main-image img{
+.main-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    object-fit: cover;
-    
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*added semantic element aside*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -106,7 +106,7 @@ aside {
     max-width: 150px;
 }
 
-
+/*added semantic element article*/
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,7 +129,7 @@ article h2 {
 }
 
 
-
+/*added semantic element footer*/
 footer {
     padding: 30px;
     clear: both;
@@ -137,6 +137,6 @@ footer {
     text-align: center;
 }
 
-footer h3 {
+footer h4 {
     font-size: 20px;
 }
